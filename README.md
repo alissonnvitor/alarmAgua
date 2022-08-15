@@ -1,8 +1,7 @@
 # Hora de beber Água 
 
 Projeto Extensão Chrome para te lembrar ao beber água, onde você mesmo pode programor o horario que deseja tomar água, ou pode deixar no horario padrão do sistema, que em a cada 1 hora e 30 min, vai notificar que você deve beber água.
-Porjeto desenvolvido devido a muitas das pessoas não consomen água suficiente no dia-dia. Com essa extensão sera mais facil você lembrar, devido o prodrma vai lembrar a hora certa pra você.
-
+Porjeto desenvolvido devido a muitas das pessoas não consomen água suficiente no dia-dia. Com essa extensão sera mais facil você lembrar, devido o prodrma vai lembrar a hora certa pra você. URL DO VIDEO NO YOUTUBE https://www.youtube.com/watch?v=NWfQUeI4sow
 
 # Características
 Exibir horário configurado
